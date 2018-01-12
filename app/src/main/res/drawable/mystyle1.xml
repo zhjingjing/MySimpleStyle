@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line"
+    >
+    <!-- dashGap 虚线间隔(0时 实线)  dashWidth 每一段线宽() width(高度)-->
+    <stroke android:color="#e6e6e6" android:dashGap="3dp" android:dashWidth="8dp" android:width="2dp"/>
+    <size android:height="2px"/>
+</shape>
